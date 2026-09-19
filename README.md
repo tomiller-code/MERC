@@ -1,10 +1,12 @@
 # MERC
 
-Official project page for:
+Official project repository for:
 
-**An Evolution-Guided Meta-Role for Multi-Agent Collaboration in Complex Open-World Tasks**
+**An Evolution-Guided Meta-Role for Multi-Agent Collaboration
+in Complex Open-World Tasks**
 
-This repository accompanies our manuscript submitted to
-*IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
+## Code availability
 
-The code and experimental resources will be made publicly available upon acceptance.
+This repository currently serves as a project landing page.
+The source code and experimental resources will be released here
+upon acceptance of the manuscript.
